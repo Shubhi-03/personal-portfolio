@@ -9,12 +9,10 @@ import {
   GraduationCap,
   Briefcase,
   MailIcon,
-  PhoneIcon,
   MapPin,
   Download,
   Github,
   Linkedin,
-  Globe,
 } from "lucide-react";
 import { Inter, Playfair_Display } from 'next/font/google';
 
